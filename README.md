@@ -52,12 +52,12 @@
 
 ### 🚀 Featured Projects
 
-#### 1. [Chinese Learning Platform (HSK 1–6)](https://github.com/TuanKiettt) *(Full-stack | Next.js, TailwindCSS, Supabase, PostgreSQL)*
+#### 1. [Chinese Learning Platform (HSK 1–6)](https://chinese-learn-eight.vercel.app/) *(Full-stack | Next.js, TailwindCSS, Supabase, PostgreSQL)*
 - Architected a full-stack language learning platform covering **HSK 1–6** curricula and **360+ real-life conversation scenarios**.
 - Built an automated workbook ingestion pipeline (`exceljs`) validating **3,600+ dialogue turns** and **1,000+ quiz items**, paired with an interactive SVG gamified journey map.
 - Engineered a **Spaced Repetition System (SRS)** (1–30 day intervals) and an immutable, SHA-hashed question bank preserving historical attempt integrity.
 
-#### 2. [Task Management System with AI Assistant](https://github.com/TuanKiettt) *(Full-stack | Next.js, TailwindCSS, JWT, WebSocket, Python)*
+#### 2. [Task Management System with AI Assistant](https://github.com/TuanKiettt/ai_task_management_system) *(Full-stack | Next.js, TailwindCSS, JWT, WebSocket, Python)*
 - Designed and built an end-to-end personal & team workspace platform featuring real-time notifications via **WebSocket** and **AI-assisted task generation**.
 - Handled the complete lifecycle from requirement analysis and database schema design to testing and deployment.
 
